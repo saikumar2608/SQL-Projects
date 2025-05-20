@@ -1,0 +1,21 @@
+Disease_Name,Avg_Mortality,Risk_Category
+Parkinson's Disease,5.0693377323569342,Medium Risk
+Cancer,5.068933280302292,Medium Risk
+Rabies,5.0639063531765895,Medium Risk
+Influenza,5.0575694625292469,Medium Risk
+Zika,5.0564380975095915,Medium Risk
+Hepatitis,5.0546976185711374,Medium Risk
+Alzheimer's Disease,5.0546004857194236,Medium Risk
+Diabetes,5.0545993602559074,Medium Risk
+Malaria,5.0542452150236379,Medium Risk
+COVID-19,5.053742956908172,Medium Risk
+Dengue,5.0509415577958929,Medium Risk
+Measles,5.0460678381856043,Medium Risk
+Hypertension,5.0459747727319044,Medium Risk
+Leprosy,5.0441283157558336,Medium Risk
+Cholera,5.04386992775978,Medium Risk
+Polio,5.0434506365602045,Medium Risk
+Tuberculosis,5.0358788255585454,Medium Risk
+Asthma,5.0345038107019136,Medium Risk
+HIV/AIDS,5.0330375542029913,Medium Risk
+Ebola,5.03236899299683,Medium Risk
