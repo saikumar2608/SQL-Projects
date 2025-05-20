@@ -86,11 +86,13 @@ This SQL-based analytical project explores global health data to uncover pattern
 ---
 
 ## 🚀 How to Use
+
 1. Clone or download this repository.
 2. Open SQL files in BigQuery or your SQL editor.
-3. Open `└── [dashboard.pbix – View on Google Drive]([https://drive.google.com/your-shareable-link](https://drive.google.com/file/d/19jGqw3DQnHwVcCEyDdUP55A168fo4Wt8/view?usp=drive_link)
-  in Power BI Desktop.
-5. Load the corresponding CSVs into the model.
+3. Download the Power BI dashboard file using the link below:
+   [👉 Click to download dashboard.pbix](https://drive.google.com/uc?export=download&id=19jGqw3DQnHwVcCEyDdUP55A168fo4Wt8)
+4. Open the downloaded file using **Power BI Desktop** to explore the interactive dashboard.
+5. Load the corresponding CSVs into the model (from the `data/` folder).
 6. Customize, publish, or export visuals as needed.
 
 ---
